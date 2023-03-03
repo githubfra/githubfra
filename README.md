@@ -8,8 +8,8 @@ I'm FullStack developer Jr.
 - ⚡ Fun fact: I love riding a bike
 
 ### Connect with me:
-[instagram]: https://www.instagram.com/_fraan_91/?igshid=ZDdkNTZiNTM%3D
-[linkedin]: https://www.linkedin.com/in/francisca-d%C3%ADaz-cabello-80a16711a/
+
+<a href="https://linkedin.com/in/francisca-díaz-cabello-80a16711a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cfmunoz8" height="30" width="40" /></a>
 
 
 
