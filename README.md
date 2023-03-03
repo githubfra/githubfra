@@ -3,9 +3,9 @@
 I'm FullStack developer Jr.
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love riding a bike
+- 🌱 I’m currently learning everything.🤣
+- 👯 I am looking for a new challenge as a developer.
+- ⚡ Fun fact: I love riding a bike.
 
 ### Connect with me:
 
