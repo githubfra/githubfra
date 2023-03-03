@@ -23,6 +23,5 @@ I'm FullStack developer Jr.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="githubfra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=githubfra&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubfra&show_icons=true&theme=maroongold&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubfra&layout=compact&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 </details>
